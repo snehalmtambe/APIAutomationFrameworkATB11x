@@ -1,4 +1,4 @@
-package org.example.Test.sample;
+package org.example.tests.sample;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;

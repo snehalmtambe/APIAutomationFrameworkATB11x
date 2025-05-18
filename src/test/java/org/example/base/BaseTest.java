@@ -1,4 +1,4 @@
-package org.example.Test.base;
+package org.example.base;
 
 public class BaseTest {
     //commonToAll test cases
